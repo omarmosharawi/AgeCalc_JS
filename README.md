@@ -18,4 +18,5 @@ To run the web application, open the index.html file in your browser.
 
 ## Contributing
 
-If you want to contribute to this project, please feel free to fork the repository and make a pull request. You can also contact me at [omarmosharawi@gmail.com](mailto:omarmosharawi@gmail.com) for any suggestions or feedback.
+- If you want to contribute to this project, please feel free to fork the repository and make a pull request.
+- You can also contact me at [omarmosharawi@gmail.com](mailto:omarmosharawi@gmail.com) for any suggestions or feedback.
