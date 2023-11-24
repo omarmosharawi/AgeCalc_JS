@@ -2,6 +2,9 @@
 
 AgeCalc_JS is a web application that calculates the age of a person based on their date of birth.
 
+## Demo
+You can access the live demo of the web application here: [AgeCal_JS](https://omarmosharawi.github.io/AgeCalc_JS/)
+
 ## Installation and Usage
 
 To install the web application, clone the repository from GitHub using the following command:
